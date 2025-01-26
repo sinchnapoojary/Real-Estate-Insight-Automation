@@ -122,11 +122,3 @@ Indicates the successful completion of the workflow.
 2. Include filtering options for property preferences.  
 3. Enhance error handling with detailed logs.  
 4. Automate email notifications with the generated Excel sheet as an attachment.
-
----
-
-## Project Associates
-- Sinchana Poojary
-- Sreevalli R
-- Umme Ayman Khanam
-- Varun S Hatti

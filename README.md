@@ -105,6 +105,18 @@ Indicates the successful completion of the workflow.
 
 ---
 
+## Output  
+
+### 1. Extraction of Real Estate Data  
+
+![Extraction of Real Estate Data](output/Output1.JPG)  
+
+### 2. Message Box indicating the completion of the process 
+ 
+![Message Box indicating the completion of the process.](output/Output2.JPG)  
+
+---
+
 ## Future Enhancements  
 1. Add support for multiple real estate websites.  
 2. Include filtering options for property preferences.  

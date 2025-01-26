@@ -63,24 +63,24 @@ Indicates the successful completion of the workflow.
 ## Screenshots  
 
 ### 1. Open Real Estate Website  
-*(Fig 5.1)*  
-![Open Real Estate Website](screenshots/open_real_estate_website.png)  
+
+![Open Real Estate Website](output/Browser.JPG)  
 
 ### 2. Data Scraping - Extract Property Details  
-*(Fig 5.2)*  
-![Data Scraping](screenshots/data_scraping.png)  
+ 
+![Data Scraping](output/RecordingSequence.JPG)  
 
 ### 3. Write Property Data to Excel  
-*(Fig 5.3)*  
-![Write Data to Excel](screenshots/write_to_excel.png)  
+ 
+![Write Data to CSV](output/WriteCSV.JPG)  
 
 ### 4. Completion Message  
-*(Fig 5.4)*  
-![Completion Message](screenshots/completion_message.png)  
+
+![Completion Message](output/Message.JPG)  
 
 ### 5. Catch Block Activity  
-*(Fig 5.5)*  
-![Catch Block Activity](screenshots/catch_block.png)  
+
+![Catch Block Activity](output/Catch.JPG)  
 
 ---
 
